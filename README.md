@@ -115,6 +115,9 @@ Urban Airship helps leading brands engage their mobile users and build high-valu
 - **[CleverTap](https://clevertap.com)**
 CleverTap lets you do app analytics at incredible speeds, and engage with your users via push notifications, in-app messages, emails or web notifications. You can use it to personalize all your interactions with users, across all channels. It does automatic uninstall tracking - with an ability to reach out to the users who've uninstalled the app for product feedback. Parse users can migrate to CleverTap in two simple steps with zero downtime.
 
+- **[Mixpanel](https://mixpanel.com)**
+Mixpanel is probably the leading mobile analytics SDK, offering rich analytics with a slick interface that allows  non-technical users to complete sophisticated analyses - onboarding funnels, cohort rentention, feature interaction, etc. The Mixpanel SDK also includes functionality to target and automate push notifications, in-app surveys, A/B test, and more.
+
 - **[Taplytics](https://taplytics.com)** 
 Taplytics is a fully integrated mobile A/B testing, push notification, and analytics platform providing the tools you need to optimize your mobile app. Taplytics supports transactional, geo, event and behavioral triggered push notifications, all of which can be a/b tested and optimized for success.
 
