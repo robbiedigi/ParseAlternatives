@@ -94,9 +94,6 @@ Appboy is an industry-leading customer relationship suite for mobile marketers. 
 - **[Batch](https://batch.com)**
 Batch is a push notification platform built around predictive analytics and smart segmentation algorithms. With Batch, you can efficiently send transactional (one to one) and marketing notifications (one to many) while leveraging our other modules to run a successful retention strategy.
 
-- **[Carnival](http://carnival.io/)**
-Carnival is a fully-featured mobile marketing automation product. Their dashboard lets non-technical users create, target, automate, and analyze sophisticated mobile marketing campaigns. They support both push and rich media in-app messages. Carnival's dashboard also draws together multiple apps, presenting a portfolio-level view of your mobile apps.
-
 - **[Catapush](https://www.catapush.com)**
 Catapush is a simple, reliable and scalable delivery API for transactional push notifications for applications. Ideal for sending data-driven transactional notifications including targeted e-commerce and personalized one-to-one messages.
 Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
